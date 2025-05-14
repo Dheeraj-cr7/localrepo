@@ -20,3 +20,21 @@ git branch - to check for branch,
 git branch -M main - to rename branch, 
 <br>
 git push origin main OR git push -u origin main - to tell the system that we will make changes to this file for a period of time so the -u creates an upstream link.
+
+<br><br><br><br><br><br>
+# Add new feature
+<br>
+to create new feature: use: git checkout -b featureName
+<br>
+to jump onto a feature: use: git checkout featureName
+<br>
+to delete a feature:
+<br>
+step 1:  jump onto a different feature
+<br>
+step 2: then write this command: git branch -d featureName.
+<br>
+add the feature => commit and then
+<br>
+push that feature using command: git push origin featureName.
+<br>
