@@ -1,4 +1,4 @@
-here we learned about
+# Here we learned about
 <br>
 some basic terminal commands like: 
 <br>
